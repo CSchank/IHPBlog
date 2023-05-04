@@ -12,11 +12,11 @@ instance View WelcomeView where
                   </h1>
 
                   <h2 style="margin-top: 0; margin-bottom: 0rem; font-weight: 900; font-size: 3rem">
-                      It's working!
+                      Hello World from Haskell
                   </h2>
 
                   <p style="margin-top: 1rem; font-size: 1.75rem; font-weight: 600; color:hsla(196, 13%, 80%, 1)">
-                     Your new application is up and running.
+                     This is my first IHP app! :D
                   </p>
 
                   <p>
