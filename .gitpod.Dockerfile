@@ -1,3 +1,7 @@
+# Based on https://github.com/gitpod-io/template-nix/blob/main/.gitpod.Dockerfile
+
+FROM gitpod/workspace-base
+
 USER root
 
 # Install Nix
